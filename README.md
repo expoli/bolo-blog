@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Opensuse 启用SMB](https://expoli.tech/articles/2020/08/28/1598624516448.html)
 * [生活-一场孤单的旅途](https://expoli.tech/articles/2020/08/12/1597198859559.html)
 * [吃狗粮吃出的一点小想法](https://expoli.tech/articles/2020/07/26/1595757128439.html)
 * [提升专注力的白噪音](https://expoli.tech/articles/2020/07/26/1595740039637.html)
@@ -29,7 +30,6 @@
 * [Arch Linux 并行包管理器 Powerpill](https://expoli.tech/articles/2020/04/26/1587881440541.html)
 * [树莓派3B+配置 opencv 与 tensorflow（虚拟环境）](https://expoli.tech/articles/2020/04/14/1586871193115.html)
 * [Arch Linux 日常使用软件合集（收集与纪录）](https://expoli.tech/articles/2020/04/04/1585977499044.html)
-* [Seafile Docker volume 跨服务器迁移](https://expoli.tech/articles/2020/04/02/1585820536124.html)
 
 
 
