@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Clash and Raspberry Pi](https://expoli.tech/articles/2020/08/30/1598760161095.html)
 * [Opensuse 启用SMB](https://expoli.tech/articles/2020/08/28/1598624516448.html)
 * [生活-一场孤单的旅途](https://expoli.tech/articles/2020/08/12/1597198859559.html)
 * [吃狗粮吃出的一点小想法](https://expoli.tech/articles/2020/07/26/1595757128439.html)
@@ -29,7 +30,6 @@
 * [Arch Linux Chromuim 硬件加速设置笔记（实验性，仅供参考）](https://expoli.tech/articles/2020/01/08/1587871894897.html)
 * [Arch Linux 并行包管理器 Powerpill](https://expoli.tech/articles/2020/04/26/1587881440541.html)
 * [树莓派3B+配置 opencv 与 tensorflow（虚拟环境）](https://expoli.tech/articles/2020/04/14/1586871193115.html)
-* [Arch Linux 日常使用软件合集（收集与纪录）](https://expoli.tech/articles/2020/04/04/1585977499044.html)
 
 
 
