@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [好用的中国大学MOOC下载器](https://expoli.tech/articles/2020/09/03/1599104766847.html)
+* [2020年的这个9月初](https://expoli.tech/articles/2020/09/03/1599099749668.html)
+* [在Docker 中运行 OpenWrt 旁路网关(转载记录)](https://expoli.tech/articles/2020/09/03/1599098023589.html)
 * [Clash and Raspberry Pi](https://expoli.tech/articles/2020/08/30/1598760161095.html)
 * [Opensuse 启用SMB](https://expoli.tech/articles/2020/08/28/1598624516448.html)
 * [生活-一场孤单的旅途](https://expoli.tech/articles/2020/08/12/1597198859559.html)
@@ -27,9 +30,6 @@
 * [在 Linux 上将你的浏览器配置文件“装进内存中去”强行提速！](https://expoli.tech/articles/2020/04/26/1587899100489.html)
 * [Linux Swap 性能优化](https://expoli.tech/articles/2020/04/26/1587897523840.html)
 * [Python requirements 生成与环境的重新部署](https://expoli.tech/articles/2020/04/26/1587884802206.html)
-* [Arch Linux Chromuim 硬件加速设置笔记（实验性，仅供参考）](https://expoli.tech/articles/2020/01/08/1587871894897.html)
-* [Arch Linux 并行包管理器 Powerpill](https://expoli.tech/articles/2020/04/26/1587881440541.html)
-* [树莓派3B+配置 opencv 与 tensorflow（虚拟环境）](https://expoli.tech/articles/2020/04/14/1586871193115.html)
 
 
 
