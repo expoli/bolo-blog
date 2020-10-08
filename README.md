@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [这是个测试文章](https://expoli.tech/articles/2020/10/08/1602119961252.html)
 * [极路由（OpenWrt）配置DHCP自动指配DNS](https://expoli.tech/articles/2020/10/01/1601530053926.html)
 * [好用的中国大学MOOC下载器](https://expoli.tech/articles/2020/09/03/1599104766847.html)
 * [2020年的这个9月初](https://expoli.tech/articles/2020/09/03/1599099749668.html)
@@ -29,7 +30,6 @@
 * [QQ 头像 与 QQ 群头像获取 API](https://expoli.tech/articles/2020/04/26/1587901274867.html)
 * [深度学习的知识储备池](https://expoli.tech/articles/2020/04/26/1587900391605.html)
 * [在 Linux 上将你的浏览器配置文件“装进内存中去”强行提速！](https://expoli.tech/articles/2020/04/26/1587899100489.html)
-* [Linux Swap 性能优化](https://expoli.tech/articles/2020/04/26/1587897523840.html)
 
 
 
