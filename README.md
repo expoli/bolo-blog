@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [小破站改革加力（加了个音乐播放器）](https://expoli.tech/articles/2020/11/16/1605494271425.html)
+* [你看人生路那么长、谁能不迷茫](https://expoli.tech/articles/2020/11/16/1605492537068.html)
 * [悲喜自渡 他人难悟易误](https://expoli.tech/articles/2020/11/14/1605350326172.html)
 * [极路由（OpenWrt）配置DHCP自动指配DNS](https://expoli.tech/articles/2020/10/01/1601530053926.html)
 * [好用的中国大学MOOC下载器](https://expoli.tech/articles/2020/09/03/1599104766847.html)
@@ -28,8 +30,6 @@
 * [卷积神经网络的可视化](https://expoli.tech/articles/2020/04/28/1588043943566.html)
 * [KDE Ctrl-Alt-Backspace无法退出X](https://expoli.tech/articles/2020/04/27/1587950530272.html)
 * [QQ 头像 与 QQ 群头像获取 API](https://expoli.tech/articles/2020/04/26/1587901274867.html)
-* [深度学习的知识储备池](https://expoli.tech/articles/2020/04/26/1587900391605.html)
-* [在 Linux 上将你的浏览器配置文件“装进内存中去”强行提速！](https://expoli.tech/articles/2020/04/26/1587899100489.html)
 
 
 
