@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [深度学习的通用工作流程](https://expoli.tech/articles/2021/03/22/1616381410484.html)
 * [Github Action 获取当前时间并给 docker 镜像打标签](https://expoli.tech/articles/2021/01/05/1609813267677.html)
 * [使用 Github Action 构建多平台 nginx-proxy](https://expoli.tech/articles/2021/01/05/1609812943066.html)
 * [巧用 Github Action 编译跨平台 docker 镜像](https://expoli.tech/articles/2021/01/05/1609810735378.html)
@@ -29,7 +30,6 @@
 * [报道前夕的感言](https://expoli.tech/articles/2020/07/22/1595382109741.html)
 * [久违了 我的朋友们](https://expoli.tech/articles/2020/07/22/1595379705790.html)
 * [docker 批量删除无用容器与镜像命令](https://expoli.tech/articles/2020/05/11/1589183836851.html)
-* [bolo v1.8-beta 功能尝鲜](https://expoli.tech/articles/2020/05/11/1589182003632.html)
 
 
 
