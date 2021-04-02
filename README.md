@@ -5,11 +5,12 @@
 <h4 align="center">🐠生成长记</h4>
 <p align="center"><a title="糖醋鱼的小破站" target="_blank" href="https://github.com/expoli/bolo-blog"><img src="https://img.shields.io/github/last-commit/expoli/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/expoli/bolo-blog"><img src="https://img.shields.io/github/repo-size/expoli/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.3 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.4 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/expoli/bolo-blog.svg"></a></p>
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://expoli.tech/github)
 * [深度学习的通用工作流程](https://expoli.tech/articles/2021/03/22/1616381410484.html)
 * [Github Action 获取当前时间并给 docker 镜像打标签](https://expoli.tech/articles/2021/01/05/1609813267677.html)
 * [使用 Github Action 构建多平台 nginx-proxy](https://expoli.tech/articles/2021/01/05/1609812943066.html)
@@ -29,7 +30,6 @@
 * [提升专注力的白噪音](https://expoli.tech/articles/2020/07/26/1595740039637.html)
 * [报道前夕的感言](https://expoli.tech/articles/2020/07/22/1595382109741.html)
 * [久违了 我的朋友们](https://expoli.tech/articles/2020/07/22/1595379705790.html)
-* [docker 批量删除无用容器与镜像命令](https://expoli.tech/articles/2020/05/11/1589183836851.html)
 
 
 
