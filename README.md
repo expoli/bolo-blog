@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CTF 常用工具](https://expoli.tech/articles/2021/05/14/1620979930459.html)
 * [我在 GitHub 上的开源项目](https://expoli.tech/github)
 * [深度学习的通用工作流程](https://expoli.tech/articles/2021/03/22/1616381410484.html)
 * [Github Action 获取当前时间并给 docker 镜像打标签](https://expoli.tech/articles/2021/01/05/1609813267677.html)
@@ -29,7 +30,6 @@
 * [吃狗粮吃出的一点小想法](https://expoli.tech/articles/2020/07/26/1595757128439.html)
 * [提升专注力的白噪音](https://expoli.tech/articles/2020/07/26/1595740039637.html)
 * [报道前夕的感言](https://expoli.tech/articles/2020/07/22/1595382109741.html)
-* [久违了 我的朋友们](https://expoli.tech/articles/2020/07/22/1595379705790.html)
 
 
 
