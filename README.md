@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [脚注测试文章](https://expoli.tech/articles/2021/05/27/1622106612107.html)
 * [Git 泄露的几种处理方法](https://expoli.tech/articles/2021/05/21/1621558068448.html)
 * [CTF 常用工具](https://expoli.tech/articles/2021/05/14/1620979930459.html)
 * [我在 GitHub 上的开源项目](https://expoli.tech/github)
@@ -29,7 +30,6 @@
 * [Opensuse 启用SMB](https://expoli.tech/articles/2020/08/28/1598624516448.html)
 * [生活-一场孤单的旅途](https://expoli.tech/articles/2020/08/12/1597198859559.html)
 * [吃狗粮吃出的一点小想法](https://expoli.tech/articles/2020/07/26/1595757128439.html)
-* [提升专注力的白噪音](https://expoli.tech/articles/2020/07/26/1595740039637.html)
 
 
 
