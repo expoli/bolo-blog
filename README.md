@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [crunch 字典生成与 John ZIP爆破](https://expoli.tech/articles/2021/07/12/1626085541971.html)
 * [CTFHub 协议流量分析题目解答](https://expoli.tech/articles/2021/07/10/1625889662126.html)
 * [Kali VirtualBox 镜像无法多网卡同时在线](https://expoli.tech/articles/2021/06/22/1624363883474.html)
 * [Visual studio code 远程开发环境配置](https://expoli.tech/articles/2021/06/22/1624363046533.html)
@@ -29,7 +30,6 @@
 * [好用的中国大学MOOC下载器](https://expoli.tech/articles/2020/09/03/1599104766847.html)
 * [2020年的这个9月初](https://expoli.tech/articles/2020/09/03/1599099749668.html)
 * [在Docker 中运行 OpenWrt 旁路网关(转载记录)](https://expoli.tech/articles/2020/09/03/1599098023589.html)
-* [Clash and Raspberry Pi](https://expoli.tech/articles/2020/08/30/1598760161095.html)
 
 
 
