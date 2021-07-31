@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [糖醋鱼的 Linux 工作环境配置方案（2021-07-30）（Arch）系列](https://expoli.tech/articles/2021/07/30/1627614066701.html)
 * [将Google相册导出到阿里云盘(webdav)](https://expoli.tech/articles/2021/07/18/1626606693060.html)
 * [easy RSA 解密RSA密文](https://expoli.tech/articles/2021/07/15/1626312938763.html)
 * [ISC2016训练赛——phrackCTF——easyCrackMe](https://expoli.tech/articles/2021/07/15/1626320278399.html)
@@ -29,7 +30,6 @@
 * [巧用 Github Action 编译跨平台 docker 镜像](https://expoli.tech/articles/2021/01/05/1609810735378.html)
 * [Windows 挂载 WebDAV](https://expoli.tech/articles/2020/12/30/1609327097930.html)
 * [小破站改革加力（加了个音乐播放器）](https://expoli.tech/articles/2020/11/16/1605494271425.html)
-* [你看人生路那么长、谁能不迷茫](https://expoli.tech/articles/2020/11/16/1605492537068.html)
 
 
 
