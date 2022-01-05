@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Arch Linux 跨时段更新指南](https://expoli.tech/articles/2022/01/04/1641282412282.html)
+* [危险指令 pacman -Sy 的前世今生](https://expoli.tech/articles/2022/01/04/1641283754635.html)
 * [自编译适用于树莓派4B的Openwrt镜像](https://expoli.tech/articles/2021/12/15/1639564263986.html)
 * [Openwrt 根分区扩容](https://expoli.tech/articles/2021/12/10/1639125544720.html)
 * [糖醋鱼的 Linux 工作环境配置方案（2021-07-30）（Arch）系列](https://expoli.tech/articles/2021/07/30/1627614066701.html)
@@ -28,8 +30,6 @@
 * [我在 GitHub 上的开源项目](https://expoli.tech/github)
 * [深度学习的通用工作流程](https://expoli.tech/articles/2021/03/22/1616381410484.html)
 * [Github Action 获取当前时间并给 docker 镜像打标签](https://expoli.tech/articles/2021/01/05/1609813267677.html)
-* [使用 Github Action 构建多平台 nginx-proxy](https://expoli.tech/articles/2021/01/05/1609812943066.html)
-* [巧用 Github Action 编译跨平台 docker 镜像](https://expoli.tech/articles/2021/01/05/1609810735378.html)
 
 
 
