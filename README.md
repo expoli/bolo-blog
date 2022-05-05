@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Centos7 更新内核版本](https://expoli.tech/articles/2022/05/04/1651652951905.html)
 * [Arch Linux 跨时段更新指南](https://expoli.tech/articles/2022/01/04/1641282412282.html)
 * [危险指令 pacman -Sy 的前世今生](https://expoli.tech/articles/2022/01/04/1641283754635.html)
 * [自编译适用于树莓派4B的Openwrt镜像](https://expoli.tech/articles/2021/12/15/1639564263986.html)
@@ -29,7 +30,6 @@
 * [CTF 常用工具](https://expoli.tech/articles/2021/05/14/1620979930459.html)
 * [我在 GitHub 上的开源项目](https://expoli.tech/github)
 * [深度学习的通用工作流程](https://expoli.tech/articles/2021/03/22/1616381410484.html)
-* [Github Action 获取当前时间并给 docker 镜像打标签](https://expoli.tech/articles/2021/01/05/1609813267677.html)
 
 
 
