@@ -1,4 +1,4 @@
-<p align="center"><img alt="糖醋鱼的小破站" src="https://oss.expoli.tech/img/HEE_favicon.png"></p><h2 align="center">
+<p align="center"><img alt="糖醋鱼的小破站" src="https://avatars.githubusercontent.com/u/31023767?s=48&v=4"></p><h2 align="center">
 糖醋鱼的小破站
 </h2>
 
