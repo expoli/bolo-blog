@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [为 VMware ESXI 安装网卡与NVME驱动并构建启动镜像](https://expoli.tech/articles/2022/09/06/1662467551372.html)
 * [阿里云主机无法启动下的完整数据恢复方案](https://expoli.tech/articles/2022/08/12/1660269223615.html)
 * [Linux 强制 gnome 使用 wayland 通信协议](https://expoli.tech/articles/2022/07/04/1656893499729.html)
 * [wiki.osdev.org 系列之（九）- 全局描述符表 (GDT)](https://expoli.tech/articles/2022/06/11/1654937103303.html)
@@ -29,7 +30,6 @@
 * [自编译适用于树莓派4B的Openwrt镜像](https://expoli.tech/articles/2021/12/15/1639564263986.html)
 * [Openwrt 根分区扩容](https://expoli.tech/articles/2021/12/10/1639125544720.html)
 * [糖醋鱼的 Linux 工作环境配置方案（2021-07-30）（Arch）系列](https://expoli.tech/articles/2021/07/30/1627614066701.html)
-* [将Google相册导出到阿里云盘(webdav)](https://expoli.tech/articles/2021/07/18/1626606693060.html)
 
 
 
