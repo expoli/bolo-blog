@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Windows GO 语言 CGO 运行时环境配置](https://expoli.tech/articles/2022/10/18/1666087321618.html)
 * [挂载使用LUKS加密的磁盘(使用  btrfs 文件系统)](https://expoli.tech/articles/2022/09/24/1664004011806.html)
 * [为 VMware ESXI 安装网卡与NVME驱动并构建启动镜像](https://expoli.tech/articles/2022/09/06/1662467551372.html)
 * [阿里云主机无法启动下的完整数据恢复方案](https://expoli.tech/articles/2022/08/12/1660269223615.html)
@@ -29,7 +30,6 @@
 * [Arch Linux 跨时段更新指南](https://expoli.tech/articles/2022/01/04/1641282412282.html)
 * [危险指令 pacman -Sy 的前世今生](https://expoli.tech/articles/2022/01/04/1641283754635.html)
 * [自编译适用于树莓派4B的Openwrt镜像](https://expoli.tech/articles/2021/12/15/1639564263986.html)
-* [Openwrt 根分区扩容](https://expoli.tech/articles/2021/12/10/1639125544720.html)
 
 
 
